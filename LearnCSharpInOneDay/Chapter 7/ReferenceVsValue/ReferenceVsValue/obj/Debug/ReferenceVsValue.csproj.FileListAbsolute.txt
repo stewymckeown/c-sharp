@@ -1,0 +1,11 @@
+C:\Users\Jamie\Desktop\ReferenceVsValue\ReferenceVsValue\bin\Debug\ReferenceVsValue.exe.config
+C:\Users\Jamie\Desktop\ReferenceVsValue\ReferenceVsValue\bin\Debug\ReferenceVsValue.exe
+C:\Users\Jamie\Desktop\ReferenceVsValue\ReferenceVsValue\bin\Debug\ReferenceVsValue.pdb
+C:\Users\Jamie\Desktop\ReferenceVsValue\ReferenceVsValue\obj\Debug\ReferenceVsValue.exe
+C:\Users\Jamie\Desktop\ReferenceVsValue\ReferenceVsValue\obj\Debug\ReferenceVsValue.pdb
+C:\Users\Jamie\Desktop\Source Code\Chapter 7\ReferenceVsValue\ReferenceVsValue\bin\Debug\ReferenceVsValue.exe.config
+C:\Users\Jamie\Desktop\Source Code\Chapter 7\ReferenceVsValue\ReferenceVsValue\obj\Debug\ReferenceVsValue.exe
+C:\Users\Jamie\Desktop\Source Code\Chapter 7\ReferenceVsValue\ReferenceVsValue\obj\Debug\ReferenceVsValue.pdb
+C:\Users\Jamie\Desktop\Source Code\Chapter 7\ReferenceVsValue\ReferenceVsValue\bin\Debug\ReferenceVsValue.exe
+C:\Users\Jamie\Desktop\Source Code\Chapter 7\ReferenceVsValue\ReferenceVsValue\bin\Debug\ReferenceVsValue.pdb
+C:\Users\Jamie\Desktop\Source Code\Chapter 7\ReferenceVsValue\ReferenceVsValue\obj\Debug\ReferenceVsValue.csprojResolveAssemblyReference.cache

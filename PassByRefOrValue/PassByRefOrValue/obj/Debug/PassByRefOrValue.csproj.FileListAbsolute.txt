@@ -1,0 +1,6 @@
+C:\StuProjects\PassByRefOrValue\PassByRefOrValue\bin\Debug\PassByRefOrValue.exe.config
+C:\StuProjects\PassByRefOrValue\PassByRefOrValue\bin\Debug\PassByRefOrValue.exe
+C:\StuProjects\PassByRefOrValue\PassByRefOrValue\bin\Debug\PassByRefOrValue.pdb
+C:\StuProjects\PassByRefOrValue\PassByRefOrValue\obj\Debug\PassByRefOrValue.csprojResolveAssemblyReference.cache
+C:\StuProjects\PassByRefOrValue\PassByRefOrValue\obj\Debug\PassByRefOrValue.exe
+C:\StuProjects\PassByRefOrValue\PassByRefOrValue\obj\Debug\PassByRefOrValue.pdb

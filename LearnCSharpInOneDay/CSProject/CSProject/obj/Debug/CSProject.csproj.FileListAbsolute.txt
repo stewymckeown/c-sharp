@@ -1,0 +1,15 @@
+C:\Users\Jamie\Desktop\C# Projects\CSProject\CSProject\bin\Debug\CSProject.exe.config
+C:\Users\Jamie\Desktop\C# Projects\CSProject\CSProject\bin\Debug\CSProject.exe
+C:\Users\Jamie\Desktop\C# Projects\CSProject\CSProject\bin\Debug\CSProject.pdb
+C:\Users\Jamie\Desktop\C# Projects\CSProject\CSProject\obj\Debug\CSProject.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Desktop\C# Projects\CSProject\CSProject\obj\Debug\CSProject.exe
+C:\Users\Jamie\Desktop\C# Projects\CSProject\CSProject\obj\Debug\CSProject.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\LearnCSharpInOneDay\CSProject\CSProject\bin\Debug\CSProject.exe.config
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\LearnCSharpInOneDay\CSProject\CSProject\obj\Debug\CSProject.exe
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\LearnCSharpInOneDay\CSProject\CSProject\obj\Debug\CSProject.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\LearnCSharpInOneDay\CSProject\CSProject\bin\Debug\CSProject.exe
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\LearnCSharpInOneDay\CSProject\CSProject\bin\Debug\CSProject.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\LearnCSharpInOneDay\CSProject\CSProject\obj\Debug\CSProject.csprojResolveAssemblyReference.cache
+C:\StuProjects\LearnCSharpInOneDay\CSProject\CSProject\bin\Debug\CSProject.exe.config
+C:\StuProjects\LearnCSharpInOneDay\CSProject\CSProject\obj\Debug\CSProject.exe
+C:\StuProjects\LearnCSharpInOneDay\CSProject\CSProject\obj\Debug\CSProject.pdb

@@ -1,0 +1,5 @@
+C:\StuProjects\MyFirstWebsite\StuLib\bin\Debug\StuLib.dll
+C:\StuProjects\MyFirstWebsite\StuLib\bin\Debug\StuLib.pdb
+C:\StuProjects\MyFirstWebsite\StuLib\obj\Debug\StuLib.csprojResolveAssemblyReference.cache
+C:\StuProjects\MyFirstWebsite\StuLib\obj\Debug\StuLib.dll
+C:\StuProjects\MyFirstWebsite\StuLib\obj\Debug\StuLib.pdb

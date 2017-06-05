@@ -1,0 +1,15 @@
+C:\Users\Jamie\Desktop\Source Code\LINQDemoWithClass\LINQDemoWithClass\bin\Debug\LINQDemoWithClass.exe.config
+C:\Users\Jamie\Desktop\Source Code\LINQDemoWithClass\LINQDemoWithClass\bin\Debug\LINQDemoWithClass.exe
+C:\Users\Jamie\Desktop\Source Code\LINQDemoWithClass\LINQDemoWithClass\bin\Debug\LINQDemoWithClass.pdb
+C:\Users\Jamie\Desktop\Source Code\LINQDemoWithClass\LINQDemoWithClass\obj\Debug\LINQDemoWithClass.exe
+C:\Users\Jamie\Desktop\Source Code\LINQDemoWithClass\LINQDemoWithClass\obj\Debug\LINQDemoWithClass.pdb
+C:\Users\Jamie\Desktop\Source Code\LINQDemoWithClass\LINQDemoWithClass\obj\Debug\LINQDemoWithClass.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 10\LINQDemoWithClass\LINQDemoWithClass\bin\Debug\LINQDemoWithClass.exe.config
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 10\LINQDemoWithClass\LINQDemoWithClass\obj\Debug\LINQDemoWithClass.exe
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 10\LINQDemoWithClass\LINQDemoWithClass\obj\Debug\LINQDemoWithClass.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 10\LINQDemoWithClass\LINQDemoWithClass\bin\Debug\LINQDemoWithClass.exe
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 10\LINQDemoWithClass\LINQDemoWithClass\bin\Debug\LINQDemoWithClass.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 10\LINQDemoWithClass\LINQDemoWithClass\obj\Debug\LINQDemoWithClass.csprojResolveAssemblyReference.cache
+C:\StuProjects\LearnCSharpInOneDay\Chapter 10\LINQDemoWithClass\LINQDemoWithClass\bin\Debug\LINQDemoWithClass.exe.config
+C:\StuProjects\LearnCSharpInOneDay\Chapter 10\LINQDemoWithClass\LINQDemoWithClass\obj\Debug\LINQDemoWithClass.exe
+C:\StuProjects\LearnCSharpInOneDay\Chapter 10\LINQDemoWithClass\LINQDemoWithClass\obj\Debug\LINQDemoWithClass.pdb

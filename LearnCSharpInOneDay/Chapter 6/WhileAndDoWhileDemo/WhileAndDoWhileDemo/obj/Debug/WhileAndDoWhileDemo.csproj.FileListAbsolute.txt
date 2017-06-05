@@ -1,0 +1,5 @@
+C:\Users\Jamie\Desktop\C# Projects\WhileAndDoWhileDemo\WhileAndDoWhileDemo\bin\Debug\WhileAndDoWhileDemo.exe.config
+C:\Users\Jamie\Desktop\C# Projects\WhileAndDoWhileDemo\WhileAndDoWhileDemo\bin\Debug\WhileAndDoWhileDemo.exe
+C:\Users\Jamie\Desktop\C# Projects\WhileAndDoWhileDemo\WhileAndDoWhileDemo\bin\Debug\WhileAndDoWhileDemo.pdb
+C:\Users\Jamie\Desktop\C# Projects\WhileAndDoWhileDemo\WhileAndDoWhileDemo\obj\Debug\WhileAndDoWhileDemo.exe
+C:\Users\Jamie\Desktop\C# Projects\WhileAndDoWhileDemo\WhileAndDoWhileDemo\obj\Debug\WhileAndDoWhileDemo.pdb

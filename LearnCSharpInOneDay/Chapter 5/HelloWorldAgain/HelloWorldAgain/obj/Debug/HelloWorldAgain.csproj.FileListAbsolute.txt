@@ -1,0 +1,6 @@
+C:\Users\Jamie\Desktop\C# Projects\HelloWorldAgain\HelloWorldAgain\bin\Debug\HelloWorldAgain.exe.config
+C:\Users\Jamie\Desktop\C# Projects\HelloWorldAgain\HelloWorldAgain\bin\Debug\HelloWorldAgain.exe
+C:\Users\Jamie\Desktop\C# Projects\HelloWorldAgain\HelloWorldAgain\bin\Debug\HelloWorldAgain.pdb
+C:\Users\Jamie\Desktop\C# Projects\HelloWorldAgain\HelloWorldAgain\obj\Debug\HelloWorldAgain.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Desktop\C# Projects\HelloWorldAgain\HelloWorldAgain\obj\Debug\HelloWorldAgain.exe
+C:\Users\Jamie\Desktop\C# Projects\HelloWorldAgain\HelloWorldAgain\obj\Debug\HelloWorldAgain.pdb

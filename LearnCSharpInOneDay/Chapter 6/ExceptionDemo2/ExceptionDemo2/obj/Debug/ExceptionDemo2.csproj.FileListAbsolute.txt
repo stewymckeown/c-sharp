@@ -1,0 +1,11 @@
+C:\Users\Jamie\Desktop\C# Projects\ExceptionDemo2\ExceptionDemo2\bin\Debug\ExceptionDemo2.exe.config
+C:\Users\Jamie\Desktop\C# Projects\ExceptionDemo2\ExceptionDemo2\bin\Debug\ExceptionDemo2.exe
+C:\Users\Jamie\Desktop\C# Projects\ExceptionDemo2\ExceptionDemo2\bin\Debug\ExceptionDemo2.pdb
+C:\Users\Jamie\Desktop\C# Projects\ExceptionDemo2\ExceptionDemo2\obj\Debug\ExceptionDemo2.exe
+C:\Users\Jamie\Desktop\C# Projects\ExceptionDemo2\ExceptionDemo2\obj\Debug\ExceptionDemo2.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 6\ExceptionDemo2\ExceptionDemo2\bin\Debug\ExceptionDemo2.exe.config
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 6\ExceptionDemo2\ExceptionDemo2\obj\Debug\ExceptionDemo2.exe
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 6\ExceptionDemo2\ExceptionDemo2\obj\Debug\ExceptionDemo2.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 6\ExceptionDemo2\ExceptionDemo2\bin\Debug\ExceptionDemo2.exe
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 6\ExceptionDemo2\ExceptionDemo2\bin\Debug\ExceptionDemo2.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 6\ExceptionDemo2\ExceptionDemo2\obj\Debug\ExceptionDemo2.csprojResolveAssemblyReference.cache

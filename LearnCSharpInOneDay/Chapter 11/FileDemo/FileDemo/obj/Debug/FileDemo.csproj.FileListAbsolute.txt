@@ -1,0 +1,6 @@
+C:\Users\Jamie\Desktop\Source Code\FileDemo\FileDemo\bin\Debug\FileDemo.exe.config
+C:\Users\Jamie\Desktop\Source Code\FileDemo\FileDemo\bin\Debug\FileDemo.exe
+C:\Users\Jamie\Desktop\Source Code\FileDemo\FileDemo\bin\Debug\FileDemo.pdb
+C:\Users\Jamie\Desktop\Source Code\FileDemo\FileDemo\obj\Debug\FileDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Desktop\Source Code\FileDemo\FileDemo\obj\Debug\FileDemo.exe
+C:\Users\Jamie\Desktop\Source Code\FileDemo\FileDemo\obj\Debug\FileDemo.pdb

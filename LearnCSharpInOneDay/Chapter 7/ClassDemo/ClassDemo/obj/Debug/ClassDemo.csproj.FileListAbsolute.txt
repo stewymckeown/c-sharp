@@ -1,0 +1,12 @@
+C:\Users\Jamie\Desktop\ClassDemo\ClassDemo\bin\Debug\ClassDemo.exe.config
+C:\Users\Jamie\Desktop\ClassDemo\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Desktop\ClassDemo\ClassDemo\bin\Debug\ClassDemo.exe
+C:\Users\Jamie\Desktop\ClassDemo\ClassDemo\bin\Debug\ClassDemo.pdb
+C:\Users\Jamie\Desktop\ClassDemo\ClassDemo\obj\Debug\ClassDemo.exe
+C:\Users\Jamie\Desktop\ClassDemo\ClassDemo\obj\Debug\ClassDemo.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 7\ClassDemo\ClassDemo\bin\Debug\ClassDemo.exe.config
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 7\ClassDemo\ClassDemo\obj\Debug\ClassDemo.exe
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 7\ClassDemo\ClassDemo\obj\Debug\ClassDemo.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 7\ClassDemo\ClassDemo\bin\Debug\ClassDemo.exe
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 7\ClassDemo\ClassDemo\bin\Debug\ClassDemo.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 7\ClassDemo\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache

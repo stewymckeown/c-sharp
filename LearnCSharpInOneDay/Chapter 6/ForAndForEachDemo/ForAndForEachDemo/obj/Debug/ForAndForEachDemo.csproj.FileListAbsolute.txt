@@ -1,0 +1,11 @@
+C:\Users\Jamie\Desktop\C# Projects\ForAndForEachDemo\ForAndForEachDemo\bin\Debug\ForAndForEachDemo.exe.config
+C:\Users\Jamie\Desktop\C# Projects\ForAndForEachDemo\ForAndForEachDemo\bin\Debug\ForAndForEachDemo.exe
+C:\Users\Jamie\Desktop\C# Projects\ForAndForEachDemo\ForAndForEachDemo\bin\Debug\ForAndForEachDemo.pdb
+C:\Users\Jamie\Desktop\C# Projects\ForAndForEachDemo\ForAndForEachDemo\obj\Debug\ForAndForEachDemo.exe
+C:\Users\Jamie\Desktop\C# Projects\ForAndForEachDemo\ForAndForEachDemo\obj\Debug\ForAndForEachDemo.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 6\ForAndForEachDemo\ForAndForEachDemo\bin\Debug\ForAndForEachDemo.exe.config
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 6\ForAndForEachDemo\ForAndForEachDemo\obj\Debug\ForAndForEachDemo.exe
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 6\ForAndForEachDemo\ForAndForEachDemo\obj\Debug\ForAndForEachDemo.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 6\ForAndForEachDemo\ForAndForEachDemo\bin\Debug\ForAndForEachDemo.exe
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 6\ForAndForEachDemo\ForAndForEachDemo\bin\Debug\ForAndForEachDemo.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 6\ForAndForEachDemo\ForAndForEachDemo\obj\Debug\ForAndForEachDemo.csprojResolveAssemblyReference.cache

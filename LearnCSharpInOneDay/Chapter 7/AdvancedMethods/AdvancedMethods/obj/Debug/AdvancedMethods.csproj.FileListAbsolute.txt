@@ -1,0 +1,12 @@
+C:\Users\Jamie\Desktop\AdvancedMethods\AdvancedMethods\bin\Debug\AdvancedMethods.exe.config
+C:\Users\Jamie\Desktop\AdvancedMethods\AdvancedMethods\bin\Debug\AdvancedMethods.exe
+C:\Users\Jamie\Desktop\AdvancedMethods\AdvancedMethods\bin\Debug\AdvancedMethods.pdb
+C:\Users\Jamie\Desktop\AdvancedMethods\AdvancedMethods\obj\Debug\AdvancedMethods.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Desktop\AdvancedMethods\AdvancedMethods\obj\Debug\AdvancedMethods.exe
+C:\Users\Jamie\Desktop\AdvancedMethods\AdvancedMethods\obj\Debug\AdvancedMethods.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 7\AdvancedMethods\AdvancedMethods\bin\Debug\AdvancedMethods.exe.config
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 7\AdvancedMethods\AdvancedMethods\obj\Debug\AdvancedMethods.exe
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 7\AdvancedMethods\AdvancedMethods\obj\Debug\AdvancedMethods.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 7\AdvancedMethods\AdvancedMethods\bin\Debug\AdvancedMethods.exe
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 7\AdvancedMethods\AdvancedMethods\bin\Debug\AdvancedMethods.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\Source Code\Chapter 7\AdvancedMethods\AdvancedMethods\obj\Debug\AdvancedMethods.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Jamie\Desktop\C# Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Jamie\Desktop\C# Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Jamie\Desktop\C# Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Jamie\Desktop\C# Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Desktop\C# Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Jamie\Desktop\C# Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\LearnCSharpInOneDay\Chapter 2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\LearnCSharpInOneDay\Chapter 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Jamie\Google Drive\All About Kindle ebooks\C#\LearnCSharpInOneDay\Chapter 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

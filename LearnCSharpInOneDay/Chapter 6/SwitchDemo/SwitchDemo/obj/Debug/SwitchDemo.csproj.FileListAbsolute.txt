@@ -1,0 +1,5 @@
+C:\Users\Jamie\Desktop\C# Projects\SwitchDemo\SwitchDemo\bin\Debug\SwitchDemo.exe.config
+C:\Users\Jamie\Desktop\C# Projects\SwitchDemo\SwitchDemo\bin\Debug\SwitchDemo.exe
+C:\Users\Jamie\Desktop\C# Projects\SwitchDemo\SwitchDemo\bin\Debug\SwitchDemo.pdb
+C:\Users\Jamie\Desktop\C# Projects\SwitchDemo\SwitchDemo\obj\Debug\SwitchDemo.exe
+C:\Users\Jamie\Desktop\C# Projects\SwitchDemo\SwitchDemo\obj\Debug\SwitchDemo.pdb

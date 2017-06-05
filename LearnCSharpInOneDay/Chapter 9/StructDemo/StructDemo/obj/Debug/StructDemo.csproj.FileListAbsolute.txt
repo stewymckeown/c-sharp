@@ -1,0 +1,5 @@
+C:\Users\Jamie\Desktop\Source Code\StructDemo\StructDemo\bin\Debug\StructDemo.exe.config
+C:\Users\Jamie\Desktop\Source Code\StructDemo\StructDemo\bin\Debug\StructDemo.exe
+C:\Users\Jamie\Desktop\Source Code\StructDemo\StructDemo\bin\Debug\StructDemo.pdb
+C:\Users\Jamie\Desktop\Source Code\StructDemo\StructDemo\obj\Debug\StructDemo.exe
+C:\Users\Jamie\Desktop\Source Code\StructDemo\StructDemo\obj\Debug\StructDemo.pdb

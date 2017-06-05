@@ -1,0 +1,6 @@
+C:\Users\Jamie\Desktop\Source Code\EnumDemo\EnumDemo\bin\Debug\EnumDemo.exe.config
+C:\Users\Jamie\Desktop\Source Code\EnumDemo\EnumDemo\obj\Debug\EnumDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Desktop\Source Code\EnumDemo\EnumDemo\bin\Debug\EnumDemo.exe
+C:\Users\Jamie\Desktop\Source Code\EnumDemo\EnumDemo\bin\Debug\EnumDemo.pdb
+C:\Users\Jamie\Desktop\Source Code\EnumDemo\EnumDemo\obj\Debug\EnumDemo.exe
+C:\Users\Jamie\Desktop\Source Code\EnumDemo\EnumDemo\obj\Debug\EnumDemo.pdb

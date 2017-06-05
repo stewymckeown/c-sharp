@@ -1,0 +1,6 @@
+C:\StuProjects\ClassDemo\ClassDemo\bin\Debug\ClassDemo.exe.config
+C:\StuProjects\ClassDemo\ClassDemo\bin\Debug\ClassDemo.exe
+C:\StuProjects\ClassDemo\ClassDemo\bin\Debug\ClassDemo.pdb
+C:\StuProjects\ClassDemo\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+C:\StuProjects\ClassDemo\ClassDemo\obj\Debug\ClassDemo.exe
+C:\StuProjects\ClassDemo\ClassDemo\obj\Debug\ClassDemo.pdb
